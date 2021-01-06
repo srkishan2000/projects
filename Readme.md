@@ -1,3 +1,4 @@
-readme file for the project
-dayal correction
-testing
+Readme file for projects
+
+- Calculator Application
+- React JS Spring data Rest Application 

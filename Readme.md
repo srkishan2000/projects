@@ -1,1 +1,4 @@
-readme file for the project
+Readme file for projects
+
+- Calculator Application
+- React JS Spring data Rest Application 

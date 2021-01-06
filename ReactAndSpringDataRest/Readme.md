@@ -1,0 +1,1 @@
+Readme file for React JS and Spring data Rest application
